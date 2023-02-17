@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+html, body, header, main, form, fieldset, legend, div, h1, input, a, span, button, footer, select, option, ul, li {
+  margin: 0;
+  padding: 0;
+  font-size: 1.0rem;
+  font-weight: normal;
+  font-style: normal;
+}
+legend {
+  display: none;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+select {
+  border: none;
+}
+ul, li {
+  list-style: none;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
